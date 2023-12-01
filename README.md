@@ -1,7 +1,7 @@
 # translator-helper
 This code utilizes ChatGPT to simplify and modernize a text to be used as an aid for translation. Input takes a Microsoft Word document and exports a Word document with the original text on the left and the modernized/simplified text on the right.
 
-To run it, make sure you have Python 3 installed on your system. A tutorial on how to do so is here: https://kinsta.com/knowledgebase/install-python/#:~:text=Step%201%3A%20Download%20the%20Python,Python%20from%20the%20official%20website.
+To run it, make sure you have Python 3 installed on your system. A tutorial on how to do so is here: https://kinsta.com/knowledgebase/install-python/#:~:text=Step%201%3A%20Download%20the%20Python,Python%20from%20the%20official%20website
 
 Download this code by clicking the "Code" button on the top right of this page and select "Download ZIP"
 
