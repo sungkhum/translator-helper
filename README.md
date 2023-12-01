@@ -5,7 +5,7 @@ To run it, make sure you have Python 3 installed on your system. A tutorial on h
 
 Download this code by clicking the "Code" button on the top right of this page and select "Download ZIP"
 
-Then open up translation-helper.py in a text editor and add your ChatGPT API key to this line (line 8) preserving the single quotes around the key: openai.api_key = 'YOURAPIKEY'
+After unzipping the downloaded file, open up translation-helper.py in a text editor and add your ChatGPT API key to this line (line 8) preserving the single quotes around the key: openai.api_key = 'YOURAPIKEY'
 
 To get an OpenAI ChatGPT API Key you can follow this tutorial: https://www.youtube.com/watch?v=aVog4J6nIAU
 
