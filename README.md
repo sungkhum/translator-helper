@@ -3,6 +3,8 @@ This code utilizes ChatGPT to simplify and modernize a text to be used as an aid
 
 To run it, make sure you have Python 3 installed on your system. Download this code, and add your ChatGPT API key to translation-helper.py
 
+To get an OpenAI ChatGPT API Key you can follow this tutorial: https://www.youtube.com/watch?v=aVog4J6nIAU
+
 Then have your input.doc contain the text you want to modernize in perperation for translation in the same directory as translation-helper.py
 
 And run the script in the terminal using: python3 translation-helper.py
