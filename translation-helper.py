@@ -78,4 +78,4 @@ def process_document(input_path, output_path):
     new_doc.save(output_path)
 
 # This gets called when you run with Python via terminal: python3 translation-helper.py
-process_document('full-text.docx', 'output.docx')
+process_document('input.docx', 'output.docx')
