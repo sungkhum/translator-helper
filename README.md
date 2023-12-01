@@ -9,7 +9,7 @@ After unzipping the downloaded file, open up translation-helper.py in a text edi
 
 To get an OpenAI ChatGPT API Key you can follow this tutorial: https://www.youtube.com/watch?v=aVog4J6nIAU
 
-Then have your input.doc contain the text you want to modernize in perperation for translation in the same directory as translation-helper.py
+Then have your input.doc contain the text you want to modernize in preperation for translation in the same directory as translation-helper.py
 
 And run the script in the terminal using: python3 translation-helper.py
 
